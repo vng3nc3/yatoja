@@ -50,17 +50,17 @@ __   __    _            _
 
 Convert all yml or Yaml files in your directory to json
 
-[OK] Converted Cloud.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/Cloud.json
-[OK] Converted Commerce.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/Commerce.json
-[OK] Converted Developer.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/Developer.json
-[OK] Converted Finance.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/Finance.json
-[OK] Converted HR.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/HR.json
-[OK] Converted Healthcare.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/Healthcare.json
-[OK] Converted Marketing.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/Marketing.json
-[OK] Converted Others.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/Others.json
-[OK] Converted Productivity.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/Productivity.json
-[OK] Converted Sales.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/Sales.json
-[OK] Converted Security.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/Security.json
+[OK] Converted Cloud.yaml to /companies/Cloud.json
+[OK] Converted Commerce.yaml to /companies/Commerce.json
+[OK] Converted Developer.yaml to /companies/Developer.json
+[OK] Converted Finance.yaml to /companies/Finance.json
+[OK] Converted HR.yaml to /companies/HR.json
+[OK] Converted Healthcare.yaml to /companies/Healthcare.json
+[OK] Converted Marketing.yaml to /companies/Marketing.json
+[OK] Converted Others.yaml to /companies/Others.json
+[OK] Converted Productivity.yaml to /companies/Productivity.json
+[OK] Converted Sales.yaml to /companies/Sales.json
+[OK] Converted Security.yaml to /companies/Security.json
 ```
 
 # License
