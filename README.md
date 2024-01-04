@@ -1,9 +1,9 @@
 <p align="center">
 <a href="https://badge.techforpalestine.org/default" target="_blank">
 <img src="https://badge.techforpalestine.org/default">
-</a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</a>
 </p>
 
 ```ml
