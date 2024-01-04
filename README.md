@@ -1,3 +1,11 @@
+<p align="center">
+<a href="https://badge.techforpalestine.org/default" target="_blank">
+<img src="https://badge.techforpalestine.org/default">
+</a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
 ```ml
 -=vng3nc3=-
 
@@ -55,6 +63,6 @@ Convert all yml or Yaml files in your directory to json
 [OK] Converted Security.yaml to /workspace/lq-postgres-1/py/YaToJa/companies/Security.json
 ```
 
-# License 
+# License
 
-Ya whatever.. 
+Ya whatever..
